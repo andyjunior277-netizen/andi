@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "169354346218",
+    "project_id": "aplikasi-donor-darah-59dcc",
+    "storage_bucket": "aplikasi-donor-darah-59dcc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169354346218:android:f10ebefcd13b1e6c06a193",
+        "android_client_info": {
+          "package_name": "com.example.donor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UB7asuhVJjq0MSYNr7iekMq7QeNSS2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
